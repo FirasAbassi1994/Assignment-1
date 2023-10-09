@@ -1,4 +1,6 @@
 # Assignment-1
 
-Dear kindly note there seems to have been missin files during the submission, hence I referred to them as unfinished. For some reason my github is not showing them nor my teams.
-Given tht some potentially went wrong during upload, I provided the files that I worked on here for your convenience. 
+Dear, Kindly note the below:
+
+- some files were missing or not showing in github, so they were provided for convenience. 
+- original files can be provided upon request and attached on teams.
